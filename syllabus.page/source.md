@@ -13,7 +13,7 @@ Textbook: College Algebra, Secolnd Edition, by Julie Miller and Donna Gerken
 
 ## Instructor
 Mckenzie West
-Preferred Names: Prof. West, Dr. West, Mckenzie
+Preferred Names: Prof. West, Dr. West
 Pronouns: She/Her/Hers
 Office: HHH 524
 E-mail: [westmr@uwec.edu](mailto:westmr@uwec.edu)
@@ -77,10 +77,20 @@ After the completion of Math 109, you will be able to
 15. create and use models for exponential growth and decay to solve application problems.
 
 <hr>
+<div class="embellish-wedge-callout danger" role="note">
+  <div class="icon"><span class="icon-calendar">&nbsp;</span></div>
+  <div class="body">
+    <h2>Important Dates</h2>
+    <p>
+    <ul>
+    <li>Last Day to Drop: September 19</li>
+    <li>Last day to drop to prerequisite (Math 20): September 26</li>
+    <li>Last Day to Withdraw (W on transcript): November 14</li>
+    </ul>
+    </p>
+  </div>
+</div>
 
-## Important Dates
-*	Last Day to Drop: 
-*	Last Day to Withdraw (W on transcript):  
 
 <hr>
 
@@ -110,7 +120,7 @@ After those 5 days, your score for this component will be the percentage of days
 ### WeBWorK
 WeBWorK assignments will be due two class days after the content for the assignment was completed. Due dates and links to assignments will be available on Canvas.
 
-<div class="callout minimal danger shadowed">
+<div class="callout minimal dark shadowed">
 The lowest 3 scores will automatically be dropped from the grade calculation. These drops are intended for emergencies and other obligations. Do not skip assignments for the sake of skipping them then expect that later emergencies can be accommodated.
 </div>
 
@@ -132,7 +142,7 @@ There will be an exam after each of Chapters 1-4. Tentative exam dates are:
     </p>
   </div>
 </div>
-<div class="callout minimal danger shadowed">
+<div class="callout minimal dark shadowed">
 If you are going to miss an exam, you MUST contact me in advance. See the university <a href="https://www.uwec.edu/kb/article/class-attendance-and-authorized-absence-policies/">authorized absence policy</a> for the list of authorized absences. 
 
 In the case of an illness, it is best to notify me before the exam that you will not be able to attend.
