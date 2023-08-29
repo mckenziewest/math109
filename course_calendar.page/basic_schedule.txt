@@ -7,7 +7,7 @@ R.5: Factoring
 1.5: Applications of Quadratic Equations
 1.6: More Equations and Applications
 1.6 Continued
-1.7 Linear, Compund, and Absolute Value Inequalities
+1.7 Linear, Compound, and Absolute Value Inequalities
 Review
 Chapter 1 Exam
 2.1: The Rectangular Coordinate System and Graphing Utilities
@@ -48,7 +48,7 @@ Chapter 3 Exam
 4.3 Continued
 4.4: Properties of Logarithms 
 4.5: Exponential and Logarithmic Equations and Applications 
-4.6: Modeling wiht Exponential and Logarithmic Functions 
+4.6: Modeling with Exponential and Logarithmic Functions 
 4.6 Continued 
 Review
 Chapter 4 Exam 

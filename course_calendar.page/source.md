@@ -67,7 +67,7 @@
      9/20 - 1.6 Continued
     </td>
     <td>
-     9/21 - 1.7 Linear, Compund, and Absolute Value Inequalities
+     9/21 - 1.7 Linear, Compound, and Absolute Value Inequalities
     </td>
     <td>
      9/22 - Review
@@ -254,7 +254,7 @@
      12/6 - 4.5: Exponential and Logarithmic Equations and Applications
     </td>
     <td>
-     12/7 - 4.6: Modeling wiht Exponential and Logarithmic Functions
+     12/7 - 4.6: Modeling with Exponential and Logarithmic Functions
     </td>
     <td>
      12/8 - 4.6 Continued
