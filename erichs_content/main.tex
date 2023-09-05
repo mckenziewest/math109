@@ -1,0 +1,108 @@
+\documentclass[12pt]{exam}
+% \documentclass[12pt,answers]{exam}
+
+\usepackage{amsmath,amssymb,amsfonts}
+
+\usepackage{calc}
+\usepackage[shortlabels]{enumitem}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=false,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Math 109 Course Packet},
+}
+
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+\graphicspath{{Images/}}
+
+\usepackage{xcolor}
+
+% for margins
+\usepackage[paperwidth=8.5in, paperheight=11in, margin=1in]{geometry}
+
+\setlength{\parindent}{0pt}  %no indenting
+
+%%% Theorems
+\usepackage{amsthm}
+\usepackage{thmtools}
+\declaretheorem[numberwithin=section,thmbox=L,name=Theorem]{theorem}
+\declaretheorem[sibling=theorem,thmbox=L,name=Proposition]{prop}
+\declaretheorem[name=Definition,sibling=theorem,style=definition]{definition}
+\declaretheorem[name=Exercise,sibling=theorem,style=definition]{exercise}
+\declaretheorem[name=Example,sibling=theorem,style=definition]{example}
+\declaretheorem[name=Non-Example,sibling=theorem,style=definition]{nonex}
+\declaretheorem[thmbox=S,style=definition,name=Fact]{fact}
+\declaretheorem[numbered=no,style=definition,name=Note]{note}
+\declaretheorem[numbered=no,style=definition,name=Question]{ques}
+
+% Tik-z
+\usepackage{tikz}
+\usetikzlibrary{positioning,chains,fit,shapes,calc,arrows,patterns,cd,knots,hobby,decorations.text} 
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+%  Itimize labels
+\def\labelitemi{$\circ$} % circle
+
+%%% Titling code
+\usepackage{titling}
+\ifprintanswers
+\title{Math 109 Lecture Notes - Completed}
+\else
+\title{Math 109 Course Packet}
+\fi
+\author{Dr. Erich Jauch}
+\date{Updated Spring 2023}
+
+% Shortcuts
+\newcommand{\dl}{\displaystyle}
+\newcommand{\answer}[1]{\textbf{Answer:} \underline{\phantom{=}\color{red} #1\phantom{=}}}
+\newcommand{\blank}[2]{\underline{\phantom{=}\ifprintanswers{#1}\else\phantom{#2}\fi\phantom{=}}}
+\newcommand{\emptyfrac}[1]{\ifprintanswers{#1}\else\phantom{={#1}=}\fi}
+
+%%% Table of Contents Code
+\newcommand{\tocsubsubsection}[1]{\subsubsection*{#1}\addcontentsline{toc}{subsubsection}{#1}}
+
+\usepackage{environ}
+\NewEnviron{LargeEq}{%
+\begin{equation*}
+\scalebox{1.5}{$\BODY$}
+\end{equation*}
+}
+
+%%% Headers and Footers
+\pagestyle{headandfoot}
+\firstpageheadrule
+\firstpageheader{\theauthor}{\thetitle}{\thedate}
+\firstpagefooter{}{Page \thepage}{}
+\firstpagefootrule
+%%%
+\runningheadrule
+\runningheader{\theauthor}{\thetitle}{\thedate}
+\runningfooter{}{Page \thepage}{}
+\runningfootrule
+
+
+\begin{document}
+\pagestyle{headandfoot}
+\maketitle
+
+\pagenumbering{roman}
+
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic}
+
+\include{Module1}
+
+\include{Module2}
+
+\include{Module3}
+
+\include{Module4}
+
+\end{document}
