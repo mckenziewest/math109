@@ -1,0 +1,44 @@
+\usepackage{amsfonts,amsthm,amsmath,enumitem,multicol}
+\usepackage[margin=.5in,bottom=1in]{geometry}
+
+\newcommand{\boxtalk}[1]{
+    \fbox{
+    \begin{minipage}{\textwidth}
+        #1
+    \end{minipage}
+    }
+}
+
+\setlength{\parindent}{0cm}
+
+
+\newcommand{\makeheader}[3]{
+    {
+    \bfseries
+    Name:\underline{\hspace*{3in}}\\\mbox{}\\
+    #1\hfill Math 109\\
+    #2\hfill #3\\
+    \hrule\mbox{}\\
+    }
+}
+
+\newcommand{\makeheadernext}[3]{
+    {
+    \bfseries
+    #1\hfill Math 109\\
+    #2\hfill #3\\
+    \hrule\mbox{}\\
+    }
+}
+
+\newcommand{\skills}[3]{
+    \textbf{Skills Practice #1} (#2) #3
+}
+
+\newcommand{\alphcols}[2]{
+    \begin{multicols}{#1}
+    \begin{enumerate}[label=\textbf{\alph*.}]
+        #2
+    \end{enumerate}
+    \end{multicols}  
+    }
