@@ -5,7 +5,7 @@ _tools/maccess.py
 _tools/publish_this_time.txt
 
 ## Unneeded pdfs for note slides
-**/*.slides/*.pdf
+**/ws*.file/*.pdf
 **/result.html
 Introduction/**/*.pdf
 assignments/**/*.pdf
