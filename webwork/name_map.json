@@ -1,0 +1,380 @@
+{
+    "Homework 1.1": {
+        "name": "\ud83c\udf31 Homework 1.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 1.1": {
+        "name": "\ud83c\udf3b PRACTICE 1.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 1.3": {
+        "name": "\ud83c\udf31 Homework 1.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 1.3": {
+        "name": "\ud83c\udf3b PRACTICE 1.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 1.4": {
+        "name": "\ud83c\udf31 Homework 1.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 1.4": {
+        "name": "\ud83c\udf3b PRACTICE 1.4",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 1.5": {
+        "name": "\ud83c\udf31 Homework 1.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 1.5": {
+        "name": "\ud83c\udf3b PRACTICE 1.5",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 1.6": {
+        "name": "\ud83c\udf31 Homework 1.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 1.6": {
+        "name": "\ud83c\udf3b PRACTICE 1.6",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 1.7": {
+        "name": "\ud83c\udf31 Homework 1.7",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 1.7": {
+        "name": "\ud83c\udf3b PRACTICE 1.7",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.1": {
+        "name": "\ud83c\udf31 Homework 2.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.1": {
+        "name": "\ud83c\udf3b PRACTICE 2.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.2": {
+        "name": "\ud83c\udf31 Homework 2.2",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.2": {
+        "name": "\ud83c\udf3b PRACTICE 2.2",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.3": {
+        "name": "\ud83c\udf31 Homework 2.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.3": {
+        "name": "\ud83c\udf3b PRACTICE 2.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.4": {
+        "name": "\ud83c\udf31 Homework 2.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.4": {
+        "name": "\ud83c\udf3b PRACTICE 2.4",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.5": {
+        "name": "\ud83c\udf31 Homework 2.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.5": {
+        "name": "\ud83c\udf3b PRACTICE 2.5",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.6": {
+        "name": "\ud83c\udf31 Homework 2.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.6": {
+        "name": "\ud83c\udf3b PRACTICE 2.6",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.7": {
+        "name": "\ud83c\udf31 Homework 2.7",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.7": {
+        "name": "\ud83c\udf3b PRACTICE 2.7",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 2.8": {
+        "name": "\ud83c\udf31 Homework 2.8",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 2.8": {
+        "name": "\ud83c\udf3b PRACTICE 2.8",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 3.1": {
+        "name": "\ud83c\udf31 Homework 3.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 3.1": {
+        "name": "\ud83c\udf3b PRACTICE 3.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 3.2": {
+        "name": "\ud83c\udf31 Homework 3.2",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 3.2": {
+        "name": "\ud83c\udf3b PRACTICE 3.2",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 3.3": {
+        "name": "\ud83c\udf31 Homework 3.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 3.3": {
+        "name": "\ud83c\udf3b PRACTICE 3.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 3.4": {
+        "name": "\ud83c\udf31 Homework 3.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 3.4": {
+        "name": "\ud83c\udf3b PRACTICE 3.4",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 3.5": {
+        "name": "\ud83c\udf31 Homework 3.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 3.5": {
+        "name": "\ud83c\udf3b PRACTICE 3.5",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 3.6": {
+        "name": "\ud83c\udf31 Homework 3.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 3.6": {
+        "name": "\ud83c\udf3b PRACTICE 3.6",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 4.1": {
+        "name": "\ud83c\udf31 Homework 4.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 4.1": {
+        "name": "\ud83c\udf3b PRACTICE 4.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 4.2": {
+        "name": "\ud83c\udf31 Homework 4.2",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 4.2": {
+        "name": "\ud83c\udf3b PRACTICE 4.2",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 4.3": {
+        "name": "\ud83c\udf31 Homework 4.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 4.3": {
+        "name": "\ud83c\udf3b PRACTICE 4.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 4.4": {
+        "name": "\ud83c\udf31 Homework 4.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 4.4": {
+        "name": "\ud83c\udf3b PRACTICE 4.4",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 4.5": {
+        "name": "\ud83c\udf31 Homework 4.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 4.5": {
+        "name": "\ud83c\udf3b PRACTICE 4.5",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework 4.6": {
+        "name": "\ud83c\udf31 Homework 4.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE 4.6": {
+        "name": "\ud83c\udf3b PRACTICE 4.6",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    },
+    "Homework R": {
+        "name": "\ud83c\udf31 Homework R",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework"
+    },
+    "PRACTICE R": {
+        "name": "\ud83c\udf3b PRACTICE R",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice"
+    }
+}

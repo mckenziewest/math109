@@ -1,0 +1,21 @@
+{
+    "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_R",
+    "ww_name": "Homework R",
+    "name": "\ud83c\udf31 Homework R",
+    "modules": [
+        "WeBWorK"
+    ],
+    "assignment_group_name": "Homework",
+    "type": "assignment",
+    "unlock_at": "2020-01-01T01:01:00",
+    "lock_at": "2023-09-13T12:00:00",
+    "due_at": "2023-09-13T12:00:00",
+    "points_possible": 30,
+    "published": true,
+    "submission_types": "external_tool",
+    "position": 1,
+    "external_tool_tag_attributes": {
+        "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_R",
+        "new_tab": true
+    }
+}

@@ -1,0 +1,1073 @@
+{
+    "Homework R": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_R",
+        "ww_name": "Homework R",
+        "name": "\ud83c\udf31 Homework R",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:01:00",
+        "lock_at": "2023-09-13T12:00:00",
+        "due_at": "2023-09-13T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 1,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_R",
+            "new_tab": true
+        }
+    },
+    "Homework 1.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.1",
+        "ww_name": "Homework 1.1",
+        "name": "\ud83c\udf31 Homework 1.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:01:00",
+        "lock_at": "2023-09-14T12:00:00",
+        "due_at": "2023-09-14T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 2,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.1",
+            "new_tab": true
+        }
+    },
+    "Homework 1.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.3",
+        "ww_name": "Homework 1.3",
+        "name": "\ud83c\udf31 Homework 1.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:03:00",
+        "lock_at": "2023-09-15T12:00:00",
+        "due_at": "2023-09-15T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 3,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.3",
+            "new_tab": true
+        }
+    },
+    "Homework 1.4": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.4",
+        "ww_name": "Homework 1.4",
+        "name": "\ud83c\udf31 Homework 1.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:04:00",
+        "lock_at": "2023-09-18T00:00:00",
+        "due_at": "2023-09-18T00:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 4,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.4",
+            "new_tab": true
+        }
+    },
+    "Homework 1.5": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.5",
+        "ww_name": "Homework 1.5",
+        "name": "\ud83c\udf31 Homework 1.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:05:00",
+        "lock_at": "2023-09-20T12:00:00",
+        "due_at": "2023-09-20T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 5,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.5",
+            "new_tab": true
+        }
+    },
+    "Homework 1.6": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.6",
+        "ww_name": "Homework 1.6",
+        "name": "\ud83c\udf31 Homework 1.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:06:00",
+        "lock_at": "2023-09-22T12:00:00",
+        "due_at": "2023-09-22T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 6,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.6",
+            "new_tab": true
+        }
+    },
+    "Homework 1.7": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.7",
+        "ww_name": "Homework 1.7",
+        "name": "\ud83c\udf31 Homework 1.7",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:07:00",
+        "lock_at": "2023-09-25T12:00:00",
+        "due_at": "2023-09-25T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 7,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_1.7",
+            "new_tab": true
+        }
+    },
+    "Homework 2.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.1",
+        "ww_name": "Homework 2.1",
+        "name": "\ud83c\udf31 Homework 2.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:01:00",
+        "lock_at": "2023-09-29T12:00:00",
+        "due_at": "2023-09-29T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 8,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.1",
+            "new_tab": true
+        }
+    },
+    "Homework 2.2": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.2",
+        "ww_name": "Homework 2.2",
+        "name": "\ud83c\udf31 Homework 2.2",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:02:00",
+        "lock_at": "2023-10-02T12:00:00",
+        "due_at": "2023-10-02T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 9,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.2",
+            "new_tab": true
+        }
+    },
+    "Homework 2.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.3",
+        "ww_name": "Homework 2.3",
+        "name": "\ud83c\udf31 Homework 2.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:03:00",
+        "lock_at": "2023-10-04T12:00:00",
+        "due_at": "2023-10-04T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 10,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.3",
+            "new_tab": true
+        }
+    },
+    "Homework 2.4": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.4",
+        "ww_name": "Homework 2.4",
+        "name": "\ud83c\udf31 Homework 2.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:04:00",
+        "lock_at": "2023-10-06T12:00:00",
+        "due_at": "2023-10-06T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 11,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.4",
+            "new_tab": true
+        }
+    },
+    "Homework 2.5": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.5",
+        "ww_name": "Homework 2.5",
+        "name": "\ud83c\udf31 Homework 2.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:05:00",
+        "lock_at": "2023-10-09T12:00:00",
+        "due_at": "2023-10-09T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 12,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.5",
+            "new_tab": true
+        }
+    },
+    "Homework 2.6": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.6",
+        "ww_name": "Homework 2.6",
+        "name": "\ud83c\udf31 Homework 2.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:06:00",
+        "lock_at": "2023-10-12T12:00:00",
+        "due_at": "2023-10-12T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 13,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.6",
+            "new_tab": true
+        }
+    },
+    "Homework 2.7": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.7",
+        "ww_name": "Homework 2.7",
+        "name": "\ud83c\udf31 Homework 2.7",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:07:00",
+        "lock_at": "2023-10-16T12:00:00",
+        "due_at": "2023-10-16T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 14,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.7",
+            "new_tab": true
+        }
+    },
+    "Homework 2.8": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.8",
+        "ww_name": "Homework 2.8",
+        "name": "\ud83c\udf31 Homework 2.8",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:08:00",
+        "lock_at": "2023-10-19T12:00:00",
+        "due_at": "2023-10-19T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 15,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_2.8",
+            "new_tab": true
+        }
+    },
+    "Homework 3.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.1",
+        "ww_name": "Homework 3.1",
+        "name": "\ud83c\udf31 Homework 3.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:01:00",
+        "lock_at": "2023-10-27T12:00:00",
+        "due_at": "2023-10-27T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 16,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.1",
+            "new_tab": true
+        }
+    },
+    "Homework 3.2": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.2",
+        "ww_name": "Homework 3.2",
+        "name": "\ud83c\udf31 Homework 3.2",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:02:00",
+        "lock_at": "2023-11-02T12:00:00",
+        "due_at": "2023-11-02T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 17,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.2",
+            "new_tab": true
+        }
+    },
+    "Homework 3.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.3",
+        "ww_name": "Homework 3.3",
+        "name": "\ud83c\udf31 Homework 3.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:03:00",
+        "lock_at": "2023-11-06T12:00:00",
+        "due_at": "2023-11-06T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 18,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.3",
+            "new_tab": true
+        }
+    },
+    "Homework 3.4": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.4",
+        "ww_name": "Homework 3.4",
+        "name": "\ud83c\udf31 Homework 3.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:04:00",
+        "lock_at": "2023-11-10T12:00:00",
+        "due_at": "2023-11-10T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 19,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.4",
+            "new_tab": true
+        }
+    },
+    "Homework 3.5": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.5",
+        "ww_name": "Homework 3.5",
+        "name": "\ud83c\udf31 Homework 3.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:05:00",
+        "lock_at": "2023-11-15T12:00:00",
+        "due_at": "2023-11-15T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 20,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.5",
+            "new_tab": true
+        }
+    },
+    "Homework 3.6": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.6",
+        "ww_name": "Homework 3.6",
+        "name": "\ud83c\udf31 Homework 3.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:06:00",
+        "lock_at": "2023-11-16T12:00:00",
+        "due_at": "2023-11-16T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 21,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_3.6",
+            "new_tab": true
+        }
+    },
+    "Homework 4.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.1",
+        "ww_name": "Homework 4.1",
+        "name": "\ud83c\udf31 Homework 4.1",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:01:00",
+        "lock_at": "2023-11-29T12:00:00",
+        "due_at": "2023-11-29T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 22,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.1",
+            "new_tab": true
+        }
+    },
+    "Homework 4.2": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.2",
+        "ww_name": "Homework 4.2",
+        "name": "\ud83c\udf31 Homework 4.2",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:02:00",
+        "lock_at": "2023-12-01T12:00:00",
+        "due_at": "2023-12-01T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 23,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.2",
+            "new_tab": true
+        }
+    },
+    "Homework 4.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.3",
+        "ww_name": "Homework 4.3",
+        "name": "\ud83c\udf31 Homework 4.3",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:03:00",
+        "lock_at": "2023-12-06T12:00:00",
+        "due_at": "2023-12-06T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 24,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.3",
+            "new_tab": true
+        }
+    },
+    "Homework 4.4": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.4",
+        "ww_name": "Homework 4.4",
+        "name": "\ud83c\udf31 Homework 4.4",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:04:00",
+        "lock_at": "2023-12-07T12:00:00",
+        "due_at": "2023-12-07T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 25,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.4",
+            "new_tab": true
+        }
+    },
+    "Homework 4.5": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.5",
+        "ww_name": "Homework 4.5",
+        "name": "\ud83c\udf31 Homework 4.5",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:05:00",
+        "lock_at": "2023-12-08T12:00:00",
+        "due_at": "2023-12-08T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 26,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.5",
+            "new_tab": true
+        }
+    },
+    "Homework 4.6": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.6",
+        "ww_name": "Homework 4.6",
+        "name": "\ud83c\udf31 Homework 4.6",
+        "modules": [
+            "WeBWorK"
+        ],
+        "assignment_group_name": "Homework",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:06:00",
+        "lock_at": "2023-12-13T12:00:00",
+        "due_at": "2023-12-13T12:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 27,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/Homework_4.6",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 1.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.1",
+        "ww_name": "PRACTICE 1.1",
+        "name": "\ud83c\udf3b PRACTICE 1.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:01:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 28,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.1",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 1.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.3",
+        "ww_name": "PRACTICE 1.3",
+        "name": "\ud83c\udf3b PRACTICE 1.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:03:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 29,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.3",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 1.4": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.4",
+        "ww_name": "PRACTICE 1.4",
+        "name": "\ud83c\udf3b PRACTICE 1.4",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:04:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 30,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.4",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 1.5": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.5",
+        "ww_name": "PRACTICE 1.5",
+        "name": "\ud83c\udf3b PRACTICE 1.5",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:05:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 31,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.5",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 1.6": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.6",
+        "ww_name": "PRACTICE 1.6",
+        "name": "\ud83c\udf3b PRACTICE 1.6",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:06:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 32,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.6",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 1.7": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.7",
+        "ww_name": "PRACTICE 1.7",
+        "name": "\ud83c\udf3b PRACTICE 1.7",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:07:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 33,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_1.7",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.1",
+        "ww_name": "PRACTICE 2.1",
+        "name": "\ud83c\udf3b PRACTICE 2.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:01:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 34,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.1",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.2": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.2",
+        "ww_name": "PRACTICE 2.2",
+        "name": "\ud83c\udf3b PRACTICE 2.2",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:02:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 35,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.2",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.3",
+        "ww_name": "PRACTICE 2.3",
+        "name": "\ud83c\udf3b PRACTICE 2.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:03:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 36,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.3",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.4": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.4",
+        "ww_name": "PRACTICE 2.4",
+        "name": "\ud83c\udf3b PRACTICE 2.4",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:04:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 37,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.4",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.5": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.5",
+        "ww_name": "PRACTICE 2.5",
+        "name": "\ud83c\udf3b PRACTICE 2.5",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:05:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 38,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.5",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.6": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.6",
+        "ww_name": "PRACTICE 2.6",
+        "name": "\ud83c\udf3b PRACTICE 2.6",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:06:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 39,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.6",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.7": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.7",
+        "ww_name": "PRACTICE 2.7",
+        "name": "\ud83c\udf3b PRACTICE 2.7",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:07:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 40,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.7",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 2.8": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.8",
+        "ww_name": "PRACTICE 2.8",
+        "name": "\ud83c\udf3b PRACTICE 2.8",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T02:08:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 41,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_2.8",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 3.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.1",
+        "ww_name": "PRACTICE 3.1",
+        "name": "\ud83c\udf3b PRACTICE 3.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:01:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 42,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.1",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 3.2": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.2",
+        "ww_name": "PRACTICE 3.2",
+        "name": "\ud83c\udf3b PRACTICE 3.2",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:02:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 43,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.2",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 3.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.3",
+        "ww_name": "PRACTICE 3.3",
+        "name": "\ud83c\udf3b PRACTICE 3.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:03:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 44,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.3",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 3.4": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.4",
+        "ww_name": "PRACTICE 3.4",
+        "name": "\ud83c\udf3b PRACTICE 3.4",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:04:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 45,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.4",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 3.5": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.5",
+        "ww_name": "PRACTICE 3.5",
+        "name": "\ud83c\udf3b PRACTICE 3.5",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:05:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 46,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.5",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 3.6": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.6",
+        "ww_name": "PRACTICE 3.6",
+        "name": "\ud83c\udf3b PRACTICE 3.6",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T03:06:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 47,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_3.6",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 4.1": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_4.1",
+        "ww_name": "PRACTICE 4.1",
+        "name": "\ud83c\udf3b PRACTICE 4.1",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:01:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 48,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_4.1",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 4.2": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_4.2",
+        "ww_name": "PRACTICE 4.2",
+        "name": "\ud83c\udf3b PRACTICE 4.2",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:02:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 49,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_4.2",
+            "new_tab": true
+        }
+    },
+    "PRACTICE 4.3": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_4.3",
+        "ww_name": "PRACTICE 4.3",
+        "name": "\ud83c\udf3b PRACTICE 4.3",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T04:03:00",
+        "lock_at": "2023-12-22T17:00:00",
+        "due_at": "2023-12-22T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 50,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_4.3",
+            "new_tab": true
+        }
+    },
+    "PRACTICE R": {
+        "link": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_R",
+        "ww_name": "PRACTICE R",
+        "name": "\ud83c\udf3b PRACTICE R",
+        "modules": [
+            "Practice"
+        ],
+        "assignment_group_name": "Practice",
+        "type": "assignment",
+        "unlock_at": "2020-01-01T01:00:00",
+        "lock_at": "2023-12-23T17:00:00",
+        "due_at": "2023-12-23T17:00:00",
+        "points_possible": 30,
+        "published": true,
+        "submission_types": "external_tool",
+        "position": 51,
+        "external_tool_tag_attributes": {
+            "url": "https://webwork.uwec.edu/webwork2/109_West/PRACTICE_R",
+            "new_tab": true
+        }
+    }
+}

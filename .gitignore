@@ -317,3 +317,7 @@ TSWLatexianTemp*
 #*Notes.bib
 assignments/.DS_Store
 .DS_Store
+webwork/dates_files/*
+webwork/homework_sets_files/*
+webwork/dates.html
+webwork/homework_sets.html
