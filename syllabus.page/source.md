@@ -114,7 +114,7 @@ After the completion of Math 109, you will be able to
 
 
 ### Participation and pre-class assignments
-Everyday you will be expected to complete a short pre-class assignment that will be graded for completion, and during class, you will be required to complete the day's worksheet.
+Everyday you will be expected to complete a short pre-class assignment that will be graded for completion, and during class, you will be required to complete the day's activities. This may include a worksheet or discussion of short-form questions asked during class.
 
 <div class="callout minimal dark shadowed">
 You may miss up to 5 days before your grade is affected. 
@@ -192,16 +192,15 @@ This course helps students meet the following Liberal Education Learning Outcome
 
 <div class="spacer" aria-hidden="true">&nbsp;</div>
 
-## Technology
-Students are encouraged not to engage in disruptive use of technology. The use of calculators or mathematical software will be allowed for most homework exercises. You are absolutely not to use resources such as Chegg and StackExchange for homework help or answers. DO NOT GOOGLE THE ANSWERS!
+## Stress Management & Well-being: 
+College can be hard. Everyone can benefit from placing their personal well-being as a top priority throughout the semester. Should you want some emotional support for any reason, you can access **FREE** counseling services (even one short session to problem-solve solutions) from the UWEC Counseling Services on campus. They are providing a variety of online and in-person services, including some virtual wellness workshops.  Call them at 715-836-5521, stop by Old Library room 2122, or check out the website to make an appointment: https://www.uwec.edu/counseling-services/
 
-## PhotoMath and ChatGPT
-You are expected to complete assignment on your own without the use of AI tools. The use of these programs will significantly limit your actual learning in the course. The purpose of the homework is to learn how to do the mathematics so that on the quizzes and exams you will do well.
+Students also have **FREE** access to UW System Mental Health Support through Mantra health – a telehealth service available 24/7 days a week (call or text: 888-531-2142 or go online at: app.mantrahealth.com; sign up using your UWEC email address). You can also reach out to the WI-branch of the national crisis/emotional support text line by texting ‘HOPELINE’ to 741 741 or use the national suicide prevention lifeline: 988   Please use these resources to support your mental well-being and success as a Blugold!
 
 <div class="spacer" aria-hidden="true">&nbsp;</div>
 
 ## Health and Safety
-This class will adhere to UWEC COVID-19 policies and guidelines as found here [HTTPS://WWW.UWEC.EDU/CORONAVIRUS-UPDATES/](HTTPS://WWW.UWEC.EDU/CORONAVIRUS-UPDATES/). Each of us shares responsibility for the health and safety of all in the classroom environment.
+This class will adhere to UWEC COVID-19 policies and guidelines as found  [on the UWEC website](https://www.uwec.edu/coronavirus-updates/). Each of us shares responsibility for the health and safety of all in the classroom environment.
 
 If you are sick, please stay home and get notes from your classmates. Do not expect that the days lecture will be recorded.
 
@@ -212,19 +211,22 @@ You are expected to work together on homework sets, though everyone is required 
 
 <div class="spacer" aria-hidden="true">&nbsp;</div>
 
+## Technology
+Students are encouraged not to engage in disruptive use of technology. The use of calculators or mathematical software will be allowed for most homework exercises. You are absolutely not to use resources such as Chegg and StackExchange for homework help or answers. DO NOT GOOGLE THE ANSWERS!
+
+## PhotoMath and ChatGPT
+You are expected to complete assignment on your own without the use of AI tools. The use of these programs will significantly limit your actual learning in the course. The purpose of the homework is to learn how to do the mathematics so that on the quizzes and exams you will do well.
+
+<div class="spacer" aria-hidden="true">&nbsp;</div>
+
 ## Make-up Policies
-You are expected to get your homework to Canvas by the deadline each week. If for some reason, you cannot meet that deadline, please get in touch with me, so that we can discuss proper arrangements.
-Due to the nature of specifications grading, you will be expected to turn in repeated attempts at assignments on subsequent Wednesdays.
+You are expected to get your homework to Canvas by the deadline each week. If you cannot complete an assignment by a deadline, that's OK, you are allowed a limited number of scores to be dropped from the grade calculation.
 
 <div class="spacer" aria-hidden="true">&nbsp;</div>
 
-## Resources
-* **SERVICES FOR STUDENTS WITH DISABILITIES** - Any student who has a disability and is in need of classroom accommodations should contact the instructor and the Services for Students with Disabilities Office in Centennial Hall 2106 at the beginning of the semester. [HTTPS://WWW.UWEC.EDU/EQUITY-DIVERSITY-INCLUSION/EDI-SERVICES-PROGRAMS/SERVICES-FOR-STUDENTS-WITH-DISABILITIES/](HTTPS://WWW.UWEC.EDU/EQUITY-DIVERSITY-INCLUSION/EDI-SERVICES-PROGRAMS/SERVICES-FOR-STUDENTS-WITH-DISABILITIES/)
-*	**UWEC COUNSELING SERVICES** – A place on campus where you can find someone to talk to when you're feeling hopeless, lonely, depressed, confused, upset over a relationship, or just plain stressed. Call for an appointment: (715) 836-5521.
+## Services for Students with Disabilities 
+Any student who has a disability and is in need of classroom accommodations should contact the instructor and the Services for Students with Disabilities Office in Centennial Hall 2106 at the beginning of the semester. [SSD Website](https://www.uwec.edu/equity-diversity-inclusion/edi-services-programs/services-for-students-with-disabilities/)
 
-<div class="spacer" aria-hidden="true">&nbsp;</div>
-
-## Accessibility
 If you are in need of accommodations, please speak with me before/after class or in my office as soon as possible so that we can make arrangements that suit your needs.
 
 <div class="spacer" aria-hidden="true">&nbsp;</div>
@@ -235,7 +237,7 @@ As a Wisconsin State employee, I am obligated to report any claims of sexual har
 <div class="spacer" aria-hidden="true">&nbsp;</div>
 
 ## Academic Conduct
-I ask that you only submit your own work in order to ensure that you are indeed the one learning the material and meeting the objectives. The disciplinary procedures and penalties for academic misconduct are described on the UW-Eau Claire Dean of Students web site: [HTTPS://WWW.UWEC.EDU/KB/ARTICLE/BLUGOLD-STUDENT-CONDUCT-CODE/](HTTPS://WWW.UWEC.EDU/KB/ARTICLE/BLUGOLD-STUDENT-CONDUCT-CODE/).
+I ask that you only submit your own work in order to ensure that you are indeed the one learning the material and meeting the objectives. The disciplinary procedures and penalties for academic misconduct are described on the [UW-Eau Claire Dean of Students web site](https://www.uwec.edu/kb/article/blugold-student-conduct-code/).
 
 <div class="spacer" aria-hidden="true">&nbsp;</div>
 
