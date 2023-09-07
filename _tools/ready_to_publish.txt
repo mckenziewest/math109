@@ -1,2 +1,2 @@
-../course_calendar.page
+../course_activities.page
 ../syllabus.page

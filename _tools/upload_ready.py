@@ -7,7 +7,12 @@ dry_run = False
 
 import markdown2canvas as mc
 
+import subprocess
+import os
 import tex_ready_docs
+
+
+from course_info import course
 
 tex_ready_docs.tex_if_needed(verbose=False)
 
@@ -27,8 +32,21 @@ ready_files = [f'{f}' for f in ready_files if f and not f in do_not_replace]
 
 print(ready_files)
 
+if "../course_calendar.page" in ready_files:
+	print("updating calendar source")
+	leaving = os.getcwd()
+	os.chdir("..\\course_calendar.page\\")
+	x = subprocess.call(f'python gen_calendar.py')
 
-from course_info import course
+
+if "../course_activities.page" in ready_files:
+	print("updating activities source")
+
+	leaving = os.getcwd()
+	os.chdir("..\\course_activities.page\\")
+	x = subprocess.call(f'python gen_calendar.py')
+	os.chdir(leaving)
+
 
 
 print(f'publishing to {course.name}')
