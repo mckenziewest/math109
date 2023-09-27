@@ -20,7 +20,7 @@ sys.path.append(os.path.dirname(os.getcwd()))
 
 from _tools.course_info import course
 
-with open('source.md','r') as current_calendar:
+with open('source.md','r',encoding="utf-8") as current_calendar:
     html_source = current_calendar.read()
     
 soup = BeautifulSoup(html_source,'html.parser')
@@ -76,6 +76,7 @@ while current_day <= last:
     # First column is day and date
     wkday = weekdays[current_day.weekday()]
     new_th.string = f"{wkday[:3]} {current_day.month}/{current_day.day}"
+    new_th['style'] = "padding-bottom:10px;padding-top:10px;"
     new_tr.append(new_th)
 
     # Remaining columns come from text files
@@ -88,10 +89,12 @@ while current_day <= last:
         else:
             content = ''
         new_td.string = f"{content}"
+        new_td['style'] = "padding-bottom:10px;padding-top:10px;"
         new_tr.append(new_td)
 
     # Canvas assignment column
     new_td = soup.new_tag('td')
+    new_td['style'] = "padding-bottom:10px;padding-top:10px;"
     if current_day in all_assignments:
         for asnt in all_assignments[current_day]:
             new_a = soup.new_tag('a', attrs=asnt)
@@ -100,7 +103,6 @@ while current_day <= last:
             new_td.append(soup.new_tag('br'))
     new_tr.append(new_td)
     table_body.append(new_tr)
-
     # Increment counter
     if current_day not in break_days:
         ii += 1
