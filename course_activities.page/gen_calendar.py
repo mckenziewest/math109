@@ -42,6 +42,17 @@ for hw in assignments:
             all_assignments[label]= [hw_dict]
     except:
         continue
+this_year = datetime.date.today().year
+all_files = {}
+for doc in course.get_files():
+    name = doc.filename
+    if name.startswith("Notes_"):
+        date = name.rstrip(".pdf").split("_",1)[1]
+        date_month,date_day = date.split("-")
+        stopper = doc.url.find("download")
+        file_dict = {"href":doc.url[:stopper]}
+        label = datetime.date(this_year,int(date_month),int(date_day))
+        all_files[label] = file_dict
 
 with open('..\\course_calendar.page\\basic_schedule.txt','r') as list_form:
     calendar = list_form.read().split('\n')
@@ -88,7 +99,12 @@ while current_day <= last:
             content = content_list[ii]
         else:
             content = ''
-        new_td.string = f"{content}"
+        if current_day in all_files and content_list == calendar:
+            new_a = soup.new_tag('a', attrs=all_files[current_day])
+            new_a.string = content
+            new_td.append(new_a)
+        else:
+            new_td.string = f"{content}"
         new_td['style'] = "padding-bottom:10px;padding-top:10px;"
         new_tr.append(new_td)
 

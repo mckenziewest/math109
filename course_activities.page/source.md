@@ -169,10 +169,6 @@
      Section 1.5 Skills Practice 3
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
-     <a href="https://uweau.instructure.com/courses/593755/assignments/6703899" name="🌱 Homework 1.4">
-      🌱 Homework 1.4
-     </a>
-     <br/>
     </td>
    </tr>
    <tr>
@@ -189,6 +185,10 @@
      Section 1.6 Skills Practice 1 and 2
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     <a href="https://uweau.instructure.com/courses/593755/assignments/6703899" name="🌱 Homework 1.4">
+      🌱 Homework 1.4
+     </a>
+     <br/>
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703901" name="🌱 Homework 1.5">
       🌱 Homework 1.5
      </a>
@@ -264,7 +264,9 @@
      Wed 9/27
     </th>
     <td style="padding-bottom:10px;padding-top:10px;">
-     2.1: The Rectangular Coordinate System and Graphing Utilities
+     <a href="https://uweau.instructure.com/files/66934602/">
+      2.1: The Rectangular Coordinate System and Graphing Utilities
+     </a>
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      p166-167
@@ -280,7 +282,9 @@
      Thu 9/28
     </th>
     <td style="padding-bottom:10px;padding-top:10px;">
-     2.2: Circles
+     <a href="https://uweau.instructure.com/files/66934591/">
+      2.2: Circles
+     </a>
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      p177-178
@@ -296,7 +300,9 @@
      Fri 9/29
     </th>
     <td style="padding-bottom:10px;padding-top:10px;">
-     2.3: Functions and Relations
+     <a href="https://uweau.instructure.com/files/66934584/">
+      2.3: Functions and Relations
+     </a>
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      p183-184
@@ -319,8 +325,10 @@
      2.4: Linear Equations in Two Variables and Linear Functions
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p197-198
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.4 Skills Practice 1
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703908" name="🌱 Homework 2.2">
@@ -334,11 +342,15 @@
      Wed 10/4
     </th>
     <td style="padding-bottom:10px;padding-top:10px;">
-     2.4 Continued
+     <a href="https://uweau.instructure.com/files/66934481/">
+      2.4 Continued
+     </a>
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p203-204
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.4 Skills Practice 6 and 7
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703909" name="🌱 Homework 2.3">
@@ -356,11 +368,15 @@
      Thu 10/5
     </th>
     <td style="padding-bottom:10px;padding-top:10px;">
-     2.5: Applications of Linear Equations and Modeling
+     <a href="https://uweau.instructure.com/files/66934449/">
+      2.5: Applications of Linear Equations and Modeling
+     </a>
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p213-214
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.5 Skills Practice 1 and 2
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
     </td>
@@ -370,11 +386,15 @@
      Fri 10/6
     </th>
     <td style="padding-bottom:10px;padding-top:10px;">
-     2.6: Transformations of Graphs
+     <a href="https://uweau.instructure.com/files/66934249/">
+      2.6: Transformations of Graphs
+     </a>
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p229-231
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.6 Skills Practice 1 and 2
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703910" name="🌱 Homework 2.4">
@@ -388,11 +408,15 @@
      Mon 10/9
     </th>
     <td style="padding-bottom:10px;padding-top:10px;">
-     2.6 Continued
+     <a href="https://uweau.instructure.com/files/66932484/">
+      2.6 Continued
+     </a>
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p234-235
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.6 Skills Practice 6
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703911" name="🌱 Homework 2.5">
@@ -409,8 +433,10 @@
      2.7: Analyzing Graphs of Functions and Piecewise-Defined Functions
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p243-245
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.7 Skills Practice 1 and 2
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6704197" name="🥗 Quiz 4">
@@ -427,8 +453,10 @@
      2.7 Continued
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p251-252
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.7 Skills Practice 10
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703912" name="🌱 Homework 2.6">
@@ -445,8 +473,10 @@
      2.8 Algebra of Functions and Function Composition
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p262-263
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.8 Skills Practice 1 and 2
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
     </td>
@@ -459,8 +489,10 @@
      2.8 Continued
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p266-267
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.8 Skills Practice 6 and 7
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703913" name="🌱 Homework 2.7">
@@ -477,8 +509,10 @@
      Catch Up
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     p270
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Section 2.8 Skills Practice 12
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
     </td>
@@ -491,8 +525,10 @@
      Review
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     None
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Choose 3 Exercises on p277-281 From Different Sections
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6703915" name="🌱 Homework 2.8">
@@ -509,8 +545,10 @@
      Chapter 2 Exam
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     None
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
+     Prepare for the Exam, Nothing to Submit
     </td>
     <td style="padding-bottom:10px;padding-top:10px;">
      <a href="https://uweau.instructure.com/courses/593755/assignments/6704139" name="🌳Chapter 2 Exam">
