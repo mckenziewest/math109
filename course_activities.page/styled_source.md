@@ -1,3 +1,5 @@
+<div id="uws-droplets-page">
+
 <html>
  <head>
   <link href="https://media.uwex.edu/app/droplets_v3/css/droplets.css" rel="stylesheet"/>
@@ -1237,3 +1239,6 @@
   </div>
  </body>
 </html>
+
+</div>
+

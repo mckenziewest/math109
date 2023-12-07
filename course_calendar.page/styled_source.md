@@ -1,3 +1,5 @@
+<div id="uws-droplets-page">
+
 <link href="https://media.uwex.edu/app/droplets_v3/css/droplets.css" rel="stylesheet"/>
 <script href="https://media.uwex.edu/app/droplets_v3/script/droplets.js" type="test/javascript">
 </script>
@@ -280,3 +282,6 @@
   </tbody>
  </table>
 </div>
+
+</div>
+

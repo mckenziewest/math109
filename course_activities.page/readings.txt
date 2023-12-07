@@ -18,10 +18,39 @@ p203-204
 p213-214
 p229-231
 p234-235
+Prepare for Quiz 4
 p243-245
 p251-252
 p262-263
 p266-267
-p270
-None
-None
+<a href="file:exam2_review.pdf">Exam 2 Review</a>
+<a href="file:exam2_review_solutions.pdf">Exam Review Solutions</a>
+p286-287
+p291-293
+p302-303
+p305-307
+p307-309
+p316-318
+p320-321
+p329-331
+p332-335
+p337-340
+p345-348<br>This includes the box labeled "Avoiding Mistakes" at the end.
+p355-357
+p369-372
+No reading
+<a href="file:exam3_review.pdf">Exam 3 Review</a>
+<a href="file:exam3_review_solutions.pdf">Exam 3 Review Solutions</a>
+p402-404
+p414-417
+p418-420
+p427-430
+p432-433
+p443-445
+p452-453
+p466-468
+p471-474
+<a href="file:exam4_review.pdf">Exam 4 Review</a>
+<a href="file:exam4_review_solutions.pdf">Exam 4 Review Solutions</a> (Not Done Yet)
+No reading
+<a href="file:practice_final.pdf">Practice Final Exam</a> (Not Done Yet)

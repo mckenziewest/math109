@@ -18,12 +18,16 @@ import os
 
 sys.path.append(os.path.dirname(os.getcwd()))
 
-from _tools.course_info import course
+import markdown2canvas as m2c
+from _tools.course_info import *
+
+canvas = m2c.make_canvas_api_obj(url=canvas_url)
+course = canvas.get_course(course_id) 
 
 with open('source.md','r',encoding="utf-8") as current_calendar:
     html_source = current_calendar.read()
     
-soup = BeautifulSoup(html_source,'html.parser')
+soup = BeautifulSoup(html_source,features='lxml')
 table_body = soup.table.tbody
 table_body.clear()
 
@@ -44,24 +48,40 @@ for hw in assignments:
         continue
 this_year = datetime.date.today().year
 all_files = {}
-for doc in course.get_files():
+course_files = course.get_files()
+for doc in course_files:
     name = doc.filename
     if name.startswith("Notes_"):
+
+        full_url=m2c.generate_course_link('file',name,course_files,course.id)
+        file_dict = {"href":full_url}
+
         date = name.rstrip(".pdf").split("_",1)[1]
         date_month,date_day = date.split("-")
-        stopper = doc.url.find("download")
-        file_dict = {"href":doc.url[:stopper]}
         label = datetime.date(this_year,int(date_month),int(date_day))
+        
         all_files[label] = file_dict
 
-with open('..\\course_calendar.page\\basic_schedule.txt','r') as list_form:
+schedule_loc = os.path.join('..','course_calendar.page','basic_schedule.txt')
+#with open('..\\course_calendar.page\\basic_schedule.txt','r') as list_form:
+with open(schedule_loc,'r') as list_form:
     calendar = list_form.read().split('\n')
-
 with open('readings.txt','r') as list_form:
     readings = list_form.read().split('\n')
 
 with open('preclass.txt','r') as list_form:
     preclass = list_form.read().split('\n')
+
+for string_list in [readings,preclass]:
+    for ii in range(len(string_list)):
+        the_body = BeautifulSoup(string_list[ii],features="lxml").body
+        if the_body is None:
+            continue
+        elif len(the_body.find_all('p')) == 1:
+            string_list[ii] = the_body.p.contents
+        else:
+            string_list[ii] = the_body.contents
+        
 
 weekdays = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
 first = datetime.date(2023,9,6)
@@ -81,20 +101,22 @@ ii = 0
 
 
 while current_day <= last:
-    new_tr = soup.new_tag("tr")
-    new_th = soup.new_tag('th')
+    new_tr = soup.new_tag("tr","html.parser")
+    new_th = soup.new_tag('th',"html.parser")
 
     # First column is day and date
     wkday = weekdays[current_day.weekday()]
     new_th.string = f"{wkday[:3]} {current_day.month}/{current_day.day}"
-    new_th['style'] = "padding-bottom:10px;padding-top:10px;"
+    new_th['style'] = "padding-top:10px;padding-bottom:10px;"
     new_tr.append(new_th)
 
     # Remaining columns come from text files
     for content_list in [calendar,readings,preclass]:
-        new_td = soup.new_tag('td')
+        new_td = soup.new_tag('td',"html.parser")
         if current_day in break_days and content_list == calendar:
             content = "No Class"
+        elif current_day in break_days:
+            content = ""
         elif ii < len(content_list):
             content = content_list[ii]
         else:
@@ -103,13 +125,15 @@ while current_day <= last:
             new_a = soup.new_tag('a', attrs=all_files[current_day])
             new_a.string = content
             new_td.append(new_a)
+        elif type(content) == str:
+            new_td.string = content
         else:
-            new_td.string = f"{content}"
+            new_td.contents = (content)
         new_td['style'] = "padding-bottom:10px;padding-top:10px;"
         new_tr.append(new_td)
 
     # Canvas assignment column
-    new_td = soup.new_tag('td')
+    new_td = soup.new_tag('td',"html-parser")
     new_td['style'] = "padding-bottom:10px;padding-top:10px;"
     if current_day in all_assignments:
         for asnt in all_assignments[current_day]:

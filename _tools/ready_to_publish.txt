@@ -1,5 +1,5 @@
-../syllabus.page
+syllabus.page
 
-../course_calendar.page
+course_calendar.page
 
-../course_activities.page
+course_activities.page
