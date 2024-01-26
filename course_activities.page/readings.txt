@@ -51,6 +51,6 @@ p452-453
 p466-468
 p471-474
 <a href="file:exam4_review.pdf">Exam 4 Review</a>
-<a href="file:exam4_review_solutions.pdf">Exam 4 Review Solutions</a> (Not Done Yet)
+<a href="file:exam4_review_solutions.pdf">Exam 4 Review Solutions</a>
 No reading
-<a href="file:practice_final.pdf">Practice Final Exam</a> (Not Done Yet)
+<a href="file:Sample_Final_F23.pdf">Practice Final Exam</a> <br><br> <a href="file:practice_final_solutions.pdf">Solutions to Practice Final</a>

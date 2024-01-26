@@ -1140,7 +1140,9 @@
        Fri 12/8
       </th>
       <td style="padding-bottom:10px;padding-top:10px;">
-       4.6 Continued
+       <a href="https://uws.instructure.com/courses/593755/files/69696972">
+        4.6 Continued
+       </a>
       </td>
       <td style="padding-bottom:10px;padding-top:10px;">
        p471-474
@@ -1184,7 +1186,6 @@
        <a href="file:exam4_review_solutions.pdf">
         Exam 4 Review Solutions
        </a>
-       (Not Done Yet)
       </td>
       <td style="padding-bottom:10px;padding-top:10px;">
        Nothing to Submit
@@ -1224,7 +1225,14 @@
        Review
       </td>
       <td style="padding-bottom:10px;padding-top:10px;">
-       No reading
+       <a href="file:Sample_Final_F23.pdf">
+        Practice Final Exam
+       </a>
+       <br/>
+       <br/>
+       <a href="file:practice_final_solutions.pdf">
+        Solutions to Practice Final
+       </a>
       </td>
       <td style="padding-bottom:10px;padding-top:10px;">
        Submit any Missing Pre-Class Assignments (Last day to do so!)
