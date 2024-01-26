@@ -321,3 +321,6 @@ webwork/dates_files/*
 webwork/homework_sets_files/*
 webwork/dates.html
 webwork/homework_sets.html
+
+
+erichs_content/**
