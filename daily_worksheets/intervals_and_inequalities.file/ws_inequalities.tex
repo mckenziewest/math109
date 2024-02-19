@@ -1,0 +1,110 @@
+\documentclass[12pt]{article}
+
+\newcommand{\secname}{Section 1.7: Inequalities}
+
+\usepackage{cancel}
+\input{../template}
+\fancyfoot[C]{}
+
+\begin{document} 
+	\startdoc
+	
+	\boxtalk{
+		\begin{minipage}{.9\textwidth}
+		\textbf{Allowed Steps.} When Solving for Variables in Inequalities
+		\bulletize{
+			\item \underline{\textbf{Add}} something to both sides.
+			\item \underline{\textbf{Subtract}} something from both sides.
+			\item \underline{\textbf{Multiply}} both sides by a \underline{\textbf{positive}} number.
+			\item \underline{\textbf{Divide}} both sides by a \underline{\textbf{positive}} number.
+
+			\item \underline{\textbf{Multiply}} both sides by a \underline{\textbf{negative}} number and \underline{\textbf{reverse}} the inequality.
+			\item \underline{\textbf{Divide}} both sides by a \underline{\textbf{negative}} number and \underline{\textbf{reverse}} the inequality.
+	}	\end{minipage}		\begin{minipage}{.08\textwidth}
+	\vskip 1.65in
+	$\begin{matrix}
+		<\\\updownarrow \\>
+	\end{matrix}$ \quad $\begin{matrix}
+		\leq\\\updownarrow \\\geq
+	\end{matrix}$ 
+\end{minipage}}
+
+	\boxtalk{
+		\textbf{Not Allowed.} When Solving for Variables in Inequalities
+		
+		Multiply or divide both sides by an expression containing \underline{variables}. 
+	}
+
+	\fbox{
+		\begin{minipage}{3.25in}
+			\textbf{Notation Conversions.}\\
+				$\begin{array}{ccc}\\
+					\text{Inequality} &\leftrightarrow& \text{Interval}\\\hline
+					2<x<7&\leftrightarrow&(2,7)\\
+					2\leq x<7&\leftrightarrow&[2,7)\\
+					2<x\leq 7&\leftrightarrow&(2,7]\\
+					2\leq x\leq 7&\leftrightarrow&[2,7]\\
+					-3\leq x & \leftrightarrow & [-3,\infty)\\
+					-3< x & \leftrightarrow & (-3,\infty)\\
+					x<5 & \leftrightarrow & (-\infty,5)\\
+					x\leq 5 & \leftrightarrow & (-\infty,5]\\
+					x\neq 5 & \leftrightarrow&(-\infty,5)\cup(5,\infty)\\
+					-3\leq x<2\text{ or }x>4&\leftrightarrow&[-3,2)\cup(4,\infty)\\
+					\text{all real numbers} &\leftrightarrow&(-\infty,\infty)\\
+				\end{array}$
+		\end{minipage}
+	
+	}
+	\fbox{\begin{minipage}{3in}
+		\textbf{Example.} Solve $-6x+4<34$ for $x$.
+		\bulletize{
+			\item Subtract 4 from each side:
+				$$-6x+4{\color{gray}-4}<34{\color{gray}-4}\quad \Rightarrow\quad -6x<30$$
+			\item Divide both sides by -6 \underline{\textbf{and}} reverse the inequality:
+				$${\color{gray}\frac{\color{black}-6x}{-6}}\mathbf{\color{red}>}{\color{gray}\frac{\color{black}-30}{-6}}\quad \Rightarrow\quad x>-5$$
+			\item Write in interval from:
+				$$x>-5\quad \Rightarrow\quad (-5,\infty)$$
+		}
+	\end{minipage}
+}
+\fbox{\begin{minipage}{6.25in}
+	\textbf{Example.} Solve $5<-2x+7\leq 11$ for $x$.
+	\bulletize{
+		\item Subtract 7 from each section:
+		$$5{\color{gray}-7}<-2x+7{\color{gray}-7}\leq 11{\color{gray}-7}\quad \Rightarrow\quad -2<-2x\leq 4$$
+		\item Divide each section -2 \underline{\textbf{and}} reverse the inequalities:
+		$${\color{gray}\frac{\color{black}-2}{-2}}\mathbf{\color{red}>}{\color{gray}\frac{\color{black}-2x}{-2}}\mathbf{\color{red}\geq}{\color{gray}\frac{\color{black}4}{-2}}\quad \Rightarrow\quad 1>x\geq -2$$
+		\item Write in interval from:
+		$$1>x\geq -2\quad \Rightarrow\quad [-2,1)$$
+	}
+\end{minipage}
+}
+\newpage
+\fbox{\begin{minipage}{6.25in}
+	\textbf{Example.} Solve $\displaystyle\frac{x+1}{3}-\frac{2x-4}{6}\leq -\frac{x}{2}$ for $x$.
+	\bulletize{
+		\item Clear the denominators by multiplying both sides by $\dfrac{6}{1}$:
+		\begin{eqnarray*}
+			{\color{gray}\frac{6}{1}}\left(\frac{x+1}{3}-\frac{2x-4}{6}\right)\leq {\color{gray}\frac{6}{1}}\left(-\frac{x}{2}\right)
+			&\Rightarrow&
+			{\color{gray}\frac{2\cdot \cancel{3}}{1}}\cdot\frac{x+1}{\cancel{3}}-{\color{gray}\frac{\cancel{6}}{1}}\cdot\frac{2x-4}{\cancel{6}}\leq {\color{gray}\frac{\cancel{2}\cdot {3}}{1}}\cdot-\frac{x}{\cancel{2}}\\\\
+			&\Rightarrow&
+			 2(x+1)-(2x-4)\leq -3x
+		\end{eqnarray*}
+		\item Distribute the $2$ and $-$:
+		$$
+		2(x+1)-(2x-4)\leq -3x\quad \Rightarrow\quad 
+		2x+2-2x+4\leq -3x$$
+		\item Simplify as much as possible before moving forward:
+		$$
+		2x+2-2x+4\leq -3x\quad \Rightarrow\quad 
+		6\leq -3x$$
+		\item Divide both sides by -3 \underline{\textbf{and}} reverse the inequality:
+		$${\color{gray}\frac{\color{black}6}{-3}}\mathbf{\color{red}\geq}{\color{gray}\frac{\color{black}-3x}{-3}}\quad \Rightarrow\quad -2\geq x$$
+		\item Write in interval from:
+		$$-2\geq x\quad \Rightarrow\quad (-\infty,-2]$$
+	}
+\end{minipage}
+}
+
+\end{document}
